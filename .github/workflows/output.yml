@@ -1,4 +1,4 @@
-name: Output Event Details
+name: Handle issues
 on: issues
 jobs:
   info:
